@@ -1,4 +1,4 @@
-module github.com/abhirockzz/amazon-bedrock-go-sdk-examples
+module github.com/abhirockzz/claude3-bedrock-go
 
 go 1.22.0
 
